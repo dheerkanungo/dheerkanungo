@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    padding-top: 800px;
+}
+img{
+    width: 450px;
+    border: solid;
+}
+#bio{
+    padding: 50px;
+    font-size: 50px;
+}
+p{
+    max-width: 450px;
+    margin: 25px;
+    font-size: 17px;
+    line-height: 1.3;
+}
+.line{
+    height: 6px;
+    background-color: azure;
+    width: 70px;
+    margin: 8px;
+}
